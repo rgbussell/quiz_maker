@@ -2,7 +2,7 @@
 LLM-based Quiz Maker Using Vision, OCR and local LLMs
 
 ### Set up the API calls to an LLM
-Uses API calls to Grok to generate text.
+Uses API calls to OpenAI to generate text.
 
 ## setup/install
 Install code and dependencies by running install/setup.sh
