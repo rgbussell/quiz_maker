@@ -1,7 +1,7 @@
 # quiz_maker
-AI-based Quiz Maker Using Vision, OCR and local LLMs
+LLM-based Quiz Maker Using Vision, OCR and local LLMs
 
-## Set up the API calls to an LLM
+### Set up the API calls to an LLM
 Uses API calls to Grok to generate text.
 
 ## setup/install
